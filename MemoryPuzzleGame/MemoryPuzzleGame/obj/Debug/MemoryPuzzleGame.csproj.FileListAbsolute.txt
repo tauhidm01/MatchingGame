@@ -1,0 +1,10 @@
+C:\Users\21903851\Documents\Learning Programming\Mini Programs\MemoryPuzzleGame\MemoryPuzzleGame\bin\Debug\MemoryPuzzleGame.exe.config
+C:\Users\21903851\Documents\Learning Programming\Mini Programs\MemoryPuzzleGame\MemoryPuzzleGame\bin\Debug\MemoryPuzzleGame.exe
+C:\Users\21903851\Documents\Learning Programming\Mini Programs\MemoryPuzzleGame\MemoryPuzzleGame\bin\Debug\MemoryPuzzleGame.pdb
+C:\Users\21903851\Documents\Learning Programming\Mini Programs\MemoryPuzzleGame\MemoryPuzzleGame\obj\Debug\MemoryPuzzleGame.csprojAssemblyReference.cache
+C:\Users\21903851\Documents\Learning Programming\Mini Programs\MemoryPuzzleGame\MemoryPuzzleGame\obj\Debug\MemoryPuzzleGame.Form1.resources
+C:\Users\21903851\Documents\Learning Programming\Mini Programs\MemoryPuzzleGame\MemoryPuzzleGame\obj\Debug\MemoryPuzzleGame.Properties.Resources.resources
+C:\Users\21903851\Documents\Learning Programming\Mini Programs\MemoryPuzzleGame\MemoryPuzzleGame\obj\Debug\MemoryPuzzleGame.csproj.GenerateResource.cache
+C:\Users\21903851\Documents\Learning Programming\Mini Programs\MemoryPuzzleGame\MemoryPuzzleGame\obj\Debug\MemoryPuzzleGame.csproj.CoreCompileInputs.cache
+C:\Users\21903851\Documents\Learning Programming\Mini Programs\MemoryPuzzleGame\MemoryPuzzleGame\obj\Debug\MemoryPuzzleGame.exe
+C:\Users\21903851\Documents\Learning Programming\Mini Programs\MemoryPuzzleGame\MemoryPuzzleGame\obj\Debug\MemoryPuzzleGame.pdb
